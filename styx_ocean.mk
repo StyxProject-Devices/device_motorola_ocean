@@ -38,5 +38,8 @@ PRODUCT_MODEL := moto g(7) power
 PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=ocean
 
-# StyxOS Variant
+# StyxOS
 STYX_BUILD_VARIANT := OFFICIAL
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    org.styxproject.maintainer=Deivid Ignacio
