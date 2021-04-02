@@ -8,5 +8,11 @@
    "target_path": "packages/apps/MotCamera2",
    "remote": "gitlab",
    "branch": "eleven-arm64"
+ },
+ {
+   "repository": "NemesisDevelopers/moto-camera/motorola_camera2_overlay",
+   "target_path": "packages/apps/MotCamera2-overlay",
+   "remote": "gitlab",
+   "branch": "ten"
  }
 ]
