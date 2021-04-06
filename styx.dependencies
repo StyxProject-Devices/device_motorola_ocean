@@ -1,18 +1,66 @@
 [
- {
-   "repository": "device_motorola_sdm632-common",
-   "target_path": "device/motorola/sdm632-common"
- },
- {
-   "repository": "NemesisDevelopers/moto-camera/motorola_camera2_denali-2",
-   "target_path": "packages/apps/MotCamera2",
-   "remote": "gitlab",
-   "branch": "eleven-arm64"
- },
- {
-   "repository": "NemesisDevelopers/moto-camera/motorola_camera2_overlay",
-   "target_path": "packages/apps/MotCamera2-overlay",
-   "remote": "gitlab",
-   "branch": "ten"
- }
+  {
+    "repository": "device_motorola_ocean",
+    "target_path": "device/motorola/ocean"
+  },
+  {
+    "repository": "device_motorola_sdm632-common",
+    "target_path": "device/motorola/sdm632-common"
+  },
+  {
+    "repository": "kernel_motorola_sdm632",
+    "target_path": "kernel/motorola/sdm632"
+  },
+  {
+    "repository": "vendor_motorola",
+    "target_path": "vendor/motorola"
+  },
+  {
+    "repository": "StyxProject/hardware_motorola",
+    "target_path": "hardware/motorola",
+    "remote": "github",
+    "branch": "R"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "LineageOS/android_system_qcom",
+    "target_path": "system/qcom",
+    "remote": "github",
+    "branch": "lineage-18.1"
+  },
+  {
+    "repository": "NemesisDevelopers/moto-camera/motorola_camera2_denali-2",
+    "target_path": "packages/apps/MotCamera2",
+    "remote": "gitlab",
+    "branch": "eleven-arm64"
+  },
+  {
+    "repository": "NemesisDevelopers/moto-camera/motorola_camera2_overlay",
+    "target_path": "packages/apps/MotCamera2-overlay",
+    "remote": "gitlab",
+    "branch": "ten"
+  },
+  {
+    "repository": "NemesisDevelopers/motorola/motorola_timeweather",
+    "target_path": "packages/apps/TimeWeather",
+    "remote": "gitlab",
+    "branch": "eleven"
+  },
+  {
+    "repository": "NemesisDevelopers/motorola/motorola_livewallpaper3",
+    "target_path": "packages/apps/MotoLiveWallpaper3",
+    "remote": "gitlab",
+    "branch": "eleven"
+  },
+  {
+    "repository": "NemesisDevelopers/motorola/motorola_motosignatureapp",
+    "target_path": "packages/apps/MotoSignatureApp",
+    "remote": "gitlab",
+    "branch": "eleven"
+  }
 ]
