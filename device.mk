@@ -61,10 +61,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     MotCamera2
 
-# Moto TimeWeather
-PRODUCT_PACKAGES += \
-    TimeWeather
-
 # Moto Live Wallpaper
 PRODUCT_PACKAGES += \
     MotoLiveWallpaper3

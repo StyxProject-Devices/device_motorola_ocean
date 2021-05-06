@@ -46,20 +46,8 @@
     "branch": "ten"
   },
   {
-    "repository": "NemesisDevelopers/motorola/motorola_timeweather",
-    "target_path": "packages/apps/TimeWeather",
-    "remote": "gitlab",
-    "branch": "eleven"
-  },
-  {
     "repository": "NemesisDevelopers/motorola/motorola_livewallpaper3",
     "target_path": "packages/apps/MotoLiveWallpaper3",
-    "remote": "gitlab",
-    "branch": "eleven"
-  },
-  {
-    "repository": "NemesisDevelopers/motorola/motorola_motosignatureapp",
-    "target_path": "packages/apps/MotoSignatureApp",
     "remote": "gitlab",
     "branch": "eleven"
   }
