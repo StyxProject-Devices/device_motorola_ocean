@@ -26,11 +26,5 @@
     "target_path": "packages/apps/MotCamera2-overlay",
     "remote": "gitlab",
     "branch": "ten"
-  },
-  {
-    "repository": "NemesisDevelopers/motorola/motorola_livewallpaper3",
-    "target_path": "packages/apps/MotoLiveWallpaper3",
-    "remote": "gitlab",
-    "branch": "eleven"
   }
 ]
