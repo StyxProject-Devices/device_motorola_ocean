@@ -178,6 +178,10 @@ vendor/lib/libchromatix_s5k4h7_ocean_zsl_preview_3a.so
 vendor/lib/libchromatix_s5k4h7_ocean_zsl_video_3a.so
 
 # Camera - mmcamera
+system/lib/libmmcamera_faceproc.so
+system/lib/libmmcamera_faceproc2.so
+system/lib64/libmmcamera_faceproc.so
+system/lib64/libmmcamera_faceproc2.so
 vendor/lib/libmmcamera2_c2d_module.so
 vendor/lib/libmmcamera2_cpp_module.so
 vendor/lib/libmmcamera2_frame_algorithm.so
